@@ -88,4 +88,5 @@ resource "azurerm_windows_virtual_machine" "winvm" {
 #this script is for only create vm using main.tf and variable.tf and basic format to understand
 
 # to run this script use below commands
-# terraform init  (to initialize the directory)   
+# terraform init  (to initialize the directory) 
+# terraform plan
